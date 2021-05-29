@@ -6,7 +6,7 @@ import java.util.List;
 // Make class final so other class cannot extend it
 public final class Employee {
 
-	// Make properties properties private & final
+	// Make properties  private & final
 	private final String name;
 	private final int age;
 	private final List<String> qualifications;
